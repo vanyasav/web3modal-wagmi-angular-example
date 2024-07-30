@@ -8,7 +8,7 @@ Run `npm install` to install packages.
 
 ## Modify walletconnect project id
 
-Modify WALLET_CONNECT_PROJECT_ID in app.component.ts to run the application.
+Modify WALLET_CONNECT_PROJECT_ID in app.component.ts before running the application.
 
 ## Development server
 
