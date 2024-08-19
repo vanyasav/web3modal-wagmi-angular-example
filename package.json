@@ -21,8 +21,8 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3",
-    "@wagmi/core": "2.13.1",
-    "@web3modal/wagmi": "5.0.9"
+    "@wagmi/core": "2.13.4",
+    "@web3modal/wagmi": "5.1.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.1.1",
